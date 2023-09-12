@@ -1,2 +1,2 @@
 # convex-hull-detection-3d
-A implementation of dent detection(convex hull detection) for a PLY or PCD. 
+Implementation of a ply or pcd concavity detection and obtaining lines.
